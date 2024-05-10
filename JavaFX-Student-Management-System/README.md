@@ -1,11 +1,5 @@
-# JavaFX Student Management System
-A Java application for managing students teachers, and grades.
-
-
-## Use Case
-Teachers and Students register in the platform.
-Students log in the platform to enroll in courses and see the grades they received.
-Teachers log in the platform to view their students and give them grades.
+# Student Management System
+A Java application for managing students teachers, and grades. It is a platform where teachers and students register in the platform, where students can log in the platform to enroll in courses and see the grades they received. It is also a way for teachers to log in to the platform to view their students and give them grades.
 
 ## Screenshots
 
